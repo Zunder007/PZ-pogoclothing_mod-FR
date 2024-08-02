@@ -5,6 +5,7 @@ ItemName_FR = {
 	ItemName_Base.LongSleeve_Bodysuit = "Maillot de corps à manches longues",
 	ItemName_Base.LongSleeve_Bodysuit_High = "Maillot de corps à manches longues (Coupe haute)",
 	ItemName_Base.ShortSleeve_Bodysuit = "Maillot de corps à manches courtes",
+	ItemName_Base.ShortSleeve_Bodysuit_High = "Maillot de corps à manches courtes (Coupe haute)",
 	ItemName_Base.Sweater_Haltertop_Bodysuit = "Maillot de corps-Pull à dos nu",
 	ItemName_Base.Sweater_Turtleneck_Bodysuit = "Maillot de corps-Pull à col roulé",
 	ItemName_Base.Turtleneck_Bodysuit = "Maillot de corps à col roulé",
